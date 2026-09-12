@@ -1,14 +1,12 @@
 # Hi, I'm Murray 👋
 
-I'm a software engineer in Los Altos, California, with a long-standing
-interest in distributed systems, data infrastructure, optimization
-problems and applied mathematics, and open-source contributions to
-Linux, FreeBSD, Python, and R.
+I've spent much of my career working on large-scale computing
+infrastructure for big data and machine learning, spanning distributed
+systems, performance, efficiency, capacity, and infrastructure
+strategy at Google, Apple, and Facebook. My other long-standing
+interests include data, optimization, mathematics, and open source.
 
-I've worked on large-scale computing infrastructure and performance
-engineering, and I enjoy getting back to smaller hands-on projects —
-particularly open source software, Raspberry Pi, computer vision, and
-projects that make technical ideas approachable to kids.
+I still enjoy building things at much smaller scales. Lately that has meant Raspberry Pi, computer vision, FreeBSD/Linux, and projects that make technical ideas approachable to kids.
 
 ## Current projects
 
